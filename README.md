@@ -1,11 +1,8 @@
 # ArtieeTheProject1
-My first project!
+My first project! 
 
-# What I want to do
-I want to create a small software for testing spiking neural networks, and creating models using it.
+## What this project contains
+I am creating a small software for testing neural networks and creating models using it.
 
-# Learning Outcomes
-I want to learn how neural networks function and how close we are to creating actual neurons digitally.
-
-# Future
-This project will be updated whenever I am free. README is subject to changes. So, progress on this project might take a while.
+## Learning Outcomes
+I want to learn how neural networks function by coding it from scratch. I will also be learning how to create projects and repos in Git, since this is my first project.
